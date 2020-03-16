@@ -1,4 +1,4 @@
-# covid-19-chestxray-dataset
+# COVID-19 image data collection
 Open database of COVID-19 cases with chest X-ray or CT images. 
 
 A database of COVID-19 cases with chest X-ray or CT images. We are looking for COVID-19 cases as well as MERS, SARS, and ARDS.
