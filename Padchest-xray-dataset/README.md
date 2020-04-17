@@ -14,3 +14,4 @@ Contribution is open for anyone, extracting new COVID-19’s X-ray data set from
 Preprocessing is basically, the images are gonna be stored both in cluster and Kaggle and distributed into three groups: training or (Tr) 60%, validation or (Val) 20% and test or (Te) 20%. 
 
 Various models will be trained and the ones which obtain better accuracy will be available as open source code in order to when a large new COVID-19 data set is acquired, enable Transfer-Learning in new computational models.
+ 
