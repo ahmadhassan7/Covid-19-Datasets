@@ -7,5 +7,7 @@ The `Anonymized` and `Thorax` folders contain DICOM images (`dcm` file extension
 
 There are many softwares for windows and mac which open .dcm extension files.
 
-The files in all other folders have no file extension at this time. Probably they should have `dcm` extension. Beware, the whole files are over 1.3 GB.
+The files in all other folders have no file extension at this time. Probably they should have `dcm` extension.
+
+Beware, the whole files are over 1.3 GB.
 
