@@ -1,8 +1,6 @@
 # AHP-covid19-ctscans
 Positive COVID-19 CT scans from the American Hospital of Paris
 
-## Organization
-
 The `Anonymized` and `Thorax` folders contain DICOM images (`dcm` file extension). This is a complex, highly dimensional file format.
 
 There are many softwares for windows and mac which open .dcm extension files.
