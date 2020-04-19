@@ -1,10 +1,10 @@
 # COVID-19 image data collection
 Open database of COVID-19 cases with chest X-ray/CT images. 
 
-A combination of databases of COVID-19 cases with chest X-ray or CT images. We are looking for COVID-19 cases as well as MERS, SARS, and ARDS.
+A combination of databases of COVID-19 cases with chest X-ray or CT images. 
 
 This repository includes multiple datasets which can be used with ai to make better diagnoser's for coronavirus.
-All images and data will be released publicly in this GitHub repo.
+All images and data will be released publicly in this GitHub repo. This repo is updated often so keep an eye on it.
 
 While the diagnosis is confirmed using polymerase chain reaction (PCR), infected patients with pneumonia may present on chest X-ray and computed tomography (CT) images with a pattern that is only moderately characteristic for the human eye Ng, 2020. COVID-19’s rate of transmission depends on our capacity to reliably identify infected patients with a low rate of false negatives. In addition, a low rate of false positives is required to avoid further increasing the burden on the healthcare system by unnecessarily exposing patients to quarantine if that is not required. Along with proper infection control, it is evident that timely detection of the disease would enable the implementation of all the supportive care required by patients affected by COVID-19.
 
